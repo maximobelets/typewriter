@@ -10,7 +10,7 @@ const typeWriter = (string, speed) => {
     }
 };
 
-typeWriter('text', 5);
+typeWriter('text', 1);
 
 
 
